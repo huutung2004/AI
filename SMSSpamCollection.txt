@@ -1,0 +1,11 @@
+ham	This is a regular message.
+spam	Congratulations! You've won a $1000 gift card.
+ham	Are we still on for dinner tonight?
+spam	Urgent! Your account has been compromised.
+ham	Please call me when you get the chance.
+ham	Hey, are you free this weekend?
+spam	Your subscription has been renewed. If you did not renew it, please contact us.
+ham	Can you send me the report by 5 PM today?
+spam	You have a limited time to claim your prize!
+ham	How was your day today?
+spam	Free entry to a $50000 cash prize giveaway. Claim now!
